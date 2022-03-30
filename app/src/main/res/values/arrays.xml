@@ -550,7 +550,7 @@
 
     <string-array name="rules_dat_provider">
         <item>@string/route_rules_official</item>
-        <item>Loyalsoldier/v2ray-rules-dat</item>
+        <item>yaotthaha/v2ray-rules-dat</item>
     </string-array>
 
     <string-array name="balancer_type">
