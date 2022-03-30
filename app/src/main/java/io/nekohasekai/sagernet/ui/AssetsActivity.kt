@@ -285,7 +285,7 @@ class AssetsActivity : ThemedActivity() {
             }
             fileName = "$fileName.xz"
         } else {
-            repo = "Loyalsoldier/v2ray-rules-dat"
+            repo = "yaotthaha/v2ray-rules-dat"
         }
 
         val client = Libcore.newHttpClient().apply {
